@@ -1,6 +1,8 @@
+# About Me
+### `React Developer `
 - 👋 Hi, I’m @premkumar
-- 👀 I’m interested in ...
-- 🌱 I’m currently looking for a job ...
+- 👀 I’m interested in ... front-end Web development 
+- 🌱 I’m currently looking for a job 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  @premenaga@gmail.com
 
