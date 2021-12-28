@@ -5,7 +5,7 @@
 - 💞️ I’m looking to do more open source contributions
 - 📫 How to reach me ...  @premenaga@gmail.com
 - ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premshetty&theme=tokyonight)]('#')![prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premshetty&count_private=true&show_icons=true&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premshetty&theme=tokyonight)]('#')![prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premshetty&count_private=true&show_icons=true&theme=dark)
 ---
 
 
