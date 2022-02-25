@@ -5,9 +5,11 @@
 - 💞️ I’m looking to do more open source contributions
 - 📫 How to reach me ...  @premenaga@gmail.com
 - ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premshetty&theme=tokyonight)]('https://premshetty.github.io/Portfolio/')[![prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premshetty&count_private=true&show_icons=true&theme=dark)]('https://premshetty.github.io/Portfolio/')
----
 
+[![prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premshetty&count_private=true&show_icons=true&theme=dark)]('https://premshetty.github.io/Portfolio/')
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premshetty&theme=tokyonight)]('https://premshetty.github.io/Portfolio/') 
+- ---
 
 <!---
 premshetty/premshetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
