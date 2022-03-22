@@ -2,8 +2,8 @@
 ### `React Developer `
 - ---
 <div><h2>Languages & Tools</h2>
-<img widht="16px" height="16px" src ="https://img.icons8.com/color/344/javascript--v1.png" />
- <img widht="16px" height="16px" src ="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" />
+<img widht="80px" height="80px" src ="https://img.icons8.com/color/344/javascript--v1.png" />
+ <img widht="60px" height="60px" src ="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" />
    <img widht="60px" height="60px" src ="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" />
  </div>
  
