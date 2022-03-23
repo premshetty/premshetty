@@ -5,6 +5,9 @@
 <img widht="80px" height="80px" src ="https://img.icons8.com/color/344/javascript--v1.png" />
  <img widht="60px" height="60px" src ="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" />
    <img widht="60px" height="60px" src ="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" />
+    <img widht="60px" height="60px" src ="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" />
+ <img widht="140px" height="60px" src ="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />
+  <img widht="140px" height="60px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" />
  </div>
  
 - ---
