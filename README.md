@@ -1,5 +1,12 @@
 # About Me
 ### `React Developer `
+
+- ---
+- 👋 Hi, I’m @premkumar
+- 👀 I’m interested in ... full stack Web development 
+- 💞️ I’m looking to do more open source contributions
+- 📫 How to reach me ...  @premenaga@gmail.com
+
 - ---
 <div><h2>Languages & Tools</h2>
 <img widht="80px" height="80px" src ="https://img.icons8.com/color/344/javascript--v1.png" />
@@ -11,11 +18,6 @@
   <img widht="140px" height="60px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" />
  </div>
  
-- ---
-- 👋 Hi, I’m @premkumar
-- 👀 I’m interested in ... full stack Web development 
-- 💞️ I’m looking to do more open source contributions
-- 📫 How to reach me ...  @premenaga@gmail.com
 - ---
 
 [![prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premshetty&count_private=true&show_icons=true&theme=dark)]('https://premshetty.github.io/Portfolio/')
