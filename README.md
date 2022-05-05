@@ -1,5 +1,5 @@
 # About Me
-### `React Developer `
+### `Ui/Ux Designer & Developer `
 
 - ---
 - 👋 Hi, I’m @premkumar
