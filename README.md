@@ -22,7 +22,7 @@
 
 [![prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premshetty&count_private=true&show_icons=true&theme=dark)]('https://premshetty.github.io/Portfolio/')
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premshetty&theme=tokyonight)]('https://premshetty.github.io/Portfolio/') 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premshetty&theme=tokyonight)]('https://premshetty.github.io/ttraveller/') 
 - ---
 
 <!---
