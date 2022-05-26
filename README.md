@@ -7,6 +7,7 @@
 - 💞️ I’m looking to do more open source contributions
 - 📫 How to reach me ...  @premenaga@gmail.com
 
+[![wakatime](https://wakatime.com/badge/user/e0fbdffd-b30e-47b9-aba0-8f72b8d78595.svg)](https://wakatime.com/@e0fbdffd-b30e-47b9-aba0-8f72b8d78595)
 - ---
 <div><h2>Languages & Tools</h2>
 <img widht="80px" height="80px" src ="https://img.icons8.com/color/344/javascript--v1.png" />
