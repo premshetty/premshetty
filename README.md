@@ -16,6 +16,9 @@
     <img widht="60px" height="60px" src ="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" />
  <img widht="140px" height="60px" src ="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />
   <img widht="140px" height="60px" src ="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" />
+  <img widht="140px" height="60px" src ="https://webpack.js.org/site-logo.1fcab817090e78435061.svg" />
+
+ 
   <img widht="140px" height="60px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" />
  </div>
  
