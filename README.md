@@ -1,7 +1,7 @@
 # About Me
 ### `Ui/Ux Designer & Developer `
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&color=02F75D&width=600&lines=I+am+a+Frontend+React+%2F+Next+js+Developer;Enthusiastic+in+UI+%2F+UX+designing;Love+to+Contribute+for+Open+Source+Projects;Love+to+read+%2F+write+Blogs;Good+in+Problem+Solving)](https://git.io/typing-svg)
-- ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&color=02F75D&width=700&lines=I+am+a+Frontend+React+%2F+Next+js+Developer;Enthusiastic+in+UI+%2F+UX+designing;Love+to+Contribute+for+Open+Source+Projects;Love+to+read+%2F+write+Blogs;Good+at+Problem+Solving)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @premkumar
 - 👀 I’m interested in ... full stack Web development 
 - 💞️ I’m looking to do more open source contributions
@@ -12,12 +12,9 @@
 ## Find me around the web 🌍
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/suchitra-giri/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://twitter.com/suchitra_13"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
- <a href="https://hackerrank.com/suchigiri13"> <img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-008000?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-   
-<a href="https://leetcode.com/perfactmistake/"> <img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fperfactmistake&logo=leetcode&logoColor=yellow"/></a>  <a href="https://suchigiri13.medium.com/"> <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://dev.to/suchitra_13"> <img alt="Medium" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prem-kumar-45763814b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://twitter.com/prem_shetty_"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
+<a href="https://dev.to/prems5"> <img alt="Medium" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 
 </div>
 
@@ -42,7 +39,9 @@
 - ---
 
 [![prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premshetty&count_private=true&show_icons=true&theme=dark)]('https://premshetty.github.io/Portfolio/')
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=premshetty&theme=radical" />
+<br >   
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=premshetty&theme=tokyonight" />
+ <br >  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premshetty&theme=tokyonight)]('https://premshetty.github.io/ttraveller/') 
   
 
