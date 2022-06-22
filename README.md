@@ -1,6 +1,6 @@
 # About Me
 ### `Ui/Ux Designer & Developer `
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&color=02F75D&width=600&lines=I+am+a+Frontend+React+%2F+Next+js+Developer;Enthusiastic+in+UI+%2F+UX+designing;Love+to+Contribute+for+Open+Source+Projects;Love+to+read+%2F+write+Blogs;Good+in+Problem+Solving)](https://git.io/typing-svg)
 - ---
 - 👋 Hi, I’m @premkumar
 - 👀 I’m interested in ... full stack Web development 
@@ -9,24 +9,43 @@
 
 [![wakatime](https://wakatime.com/badge/user/e0fbdffd-b30e-47b9-aba0-8f72b8d78595.svg)](https://wakatime.com/@e0fbdffd-b30e-47b9-aba0-8f72b8d78595)
 - ---
-<div><h2>Languages & Tools</h2>
-<img widht="80px" height="80px" src ="https://img.icons8.com/color/344/javascript--v1.png" />
- <img widht="60px" height="60px" src ="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" />
-   <img widht="60px" height="60px" src ="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" />
-    <img widht="60px" height="60px" src ="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" />
- <img widht="140px" height="60px" src ="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />
-  <img widht="140px" height="60px" src ="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" />
-  <img widht="140px" height="60px" src ="https://webpack.js.org/site-logo.1fcab817090e78435061.svg" />
+## Find me around the web 🌍
 
- 
-  <img widht="140px" height="60px" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" />
- </div>
- 
+<div align="left">
+  <a href="https://www.linkedin.com/in/suchitra-giri/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://twitter.com/suchitra_13"><img alt=Twitter" src="https://img.shields.io/badge/Twitter-%230077B5.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
+ <a href="https://hackerrank.com/suchigiri13"> <img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-008000?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+   
+<a href="https://leetcode.com/perfactmistake/"> <img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fperfactmistake&logo=leetcode&logoColor=yellow"/></a>  <a href="https://suchigiri13.medium.com/"> <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://dev.to/suchitra_13"> <img alt="Medium" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+
+</div>
+
+- ---
+## My skills 🚀
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Canva](https://img.shields.io/badge/-canva-blue?style=for-the-badge)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 - ---
 
 [![prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premshetty&count_private=true&show_icons=true&theme=dark)]('https://premshetty.github.io/Portfolio/')
-
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=premshetty&theme=radical" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premshetty&theme=tokyonight)]('https://premshetty.github.io/ttraveller/') 
+  
+
 - ---
 
 <!---
