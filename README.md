@@ -27,7 +27,7 @@
 ## My skills 🚀
 
 ---
-
+<p>
 <img src='https://user-images.githubusercontent.com/40886278/175326431-d7b88997-8695-423f-891d-5eed05b715de.png' width='50' height='50' alt='html' />
 <img src='https://user-images.githubusercontent.com/40886278/175326996-1af0f139-fe9b-4f1d-b97c-395d715c92f2.png' width='50' height='50' alt='css' />
 <img src='https://user-images.githubusercontent.com/40886278/175327171-21ed80d9-37ba-4056-9e18-8d2238ebbef8.png' width='50' height='50' alt='sass' />
@@ -38,7 +38,8 @@
 <img src='https://user-images.githubusercontent.com/40886278/175329821-ec64e7b3-934f-4482-a7fe-b1d499536b12.png' width='50' height='50' alt='next js' />
 <img src='https://user-images.githubusercontent.com/40886278/175330032-152f61ce-6aae-44bb-b89e-ba86c0714485.png' width='50' height='50' alt='json' />
 <img src='https://user-images.githubusercontent.com/40886278/175330254-0c285bfb-0092-4acb-bd43-5829f27eec52.png' width='50' height='50' alt='node' />
-
+   </p>
+   
 [![prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premshetty&count_private=true&show_icons=true&theme=dark)]('https://premshetty.github.io/Portfolio/')
 <br >  
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=premshetty&theme=tokyonight" />
