@@ -39,7 +39,7 @@ grid-template-columns: repeat(8, minmax(0, 1fr));
   width: 40px;
   height: auto;
 }
-  </style>
+</style>
 
 <div class='skillGrid'>
 <img src='./html.svg' />
