@@ -1,6 +1,6 @@
 # About Me
 ### `Ui/Ux Designer & Developer `
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&color=02F75D&width=700&lines=I+am+a+Frontend+React+%2F+Next+js+Developer;Enthusiastic+in+UI+%2F+UX+designing;Love+to+Contribute+for+Open+Source+Projects;Love+to+read+%2F+write+Blogs;Good+at+Problem+Solving)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&color=02F75D&width=700&lines=I+am+a+Frontend+React+%2F+Next+js+Developer;Enthusiastic+in+UI+%2F+UX+designing;Love+to+Contribute+for+Open+Source+Projects;Love+to+read+%2F+write+Blogs;Good+at+Problem+Solving)
 
 - 👋 Hi, I’m @premkumar
 - 👀 I’m interested in ... full stack Web development 
