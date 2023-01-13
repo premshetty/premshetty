@@ -24,6 +24,9 @@
 
 ---
 
+   
+
+   
 ## My skills 🚀
 
 ---
@@ -45,7 +48,7 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=premshetty&theme=tokyonight" />
 <br >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=premshetty&theme=tokyonight)]('https://premshetty.github.io/ttraveller/')
+ <img src='https://wakatime.com/share/@premshetty_/d9405247-1c93-4339-aafd-5fe5ddcaec6c.svg' width='500' />
 
 ---
 
