@@ -1,17 +1,29 @@
-# About Me
+<h1 align="center">Hi 👋, I'm Prem kumar s</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### `Ui/Ux Designer & Developer `
+- 🔭 I’m currently working on **LIC Mutual fund**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&color=02F75D&width=700&lines=I+am+a+Frontend+React+%2F+Next+js+Developer;Enthusiastic+in+UI+%2F+UX+designing;Love+to+Contribute+for+Open+Source+Projects;Love+to+read+%2F+write+Blogs;Good+at+Problem+Solving)
+- 🌱 I’m currently learning **python**
 
-- 👋 Hi, I’m @premkumar
-- 👀 I’m interested in ... full stack Web development
-- 💞️ I’m looking to do more open source contributions
-- 📫 How to reach me ... @premenaga@gmail.com
+- 👯 I’m looking to collaborate on **Any good open source ideas**
+
+- 🤝 I’m looking for help with **collabration**
+
+- 👨‍💻 All of my projects are available at [premdev.vercel.app](premdev.vercel.app)
+
+- 💬 Ask me about **react , redux , next js**
+
+- 📫 How to reach me **premenaga@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=premshetty&label=Profile%20views&color=0e75b6&style=flat" alt="premshetty" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premshetty" alt="premshetty" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [![wakatime](https://wakatime.com/badge/user/e0fbdffd-b30e-47b9-aba0-8f72b8d78595.svg)](https://wakatime.com/@e0fbdffd-b30e-47b9-aba0-8f72b8d78595)
 
----
+
 
 ## Find me around the web 🌍
 
@@ -22,14 +34,13 @@
 
 </div>
 
----
+
 
    
 
    
 ## My skills 🚀
 
----
 <p>
 <img src='https://user-images.githubusercontent.com/40886278/175326431-d7b88997-8695-423f-891d-5eed05b715de.png' width='50' height='50' alt='html' />
 <img src='https://user-images.githubusercontent.com/40886278/175326996-1af0f139-fe9b-4f1d-b97c-395d715c92f2.png' width='50' height='50' alt='css' />
@@ -50,7 +61,8 @@
 
  <img src='https://wakatime.com/share/@premshetty_/d9405247-1c93-4339-aafd-5fe5ddcaec6c.svg' width='500' />
 
----
+
+   
 
 <!---
 premshetty/premshetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
